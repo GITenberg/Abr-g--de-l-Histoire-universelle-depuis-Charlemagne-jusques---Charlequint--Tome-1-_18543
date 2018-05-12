@@ -1,0 +1,39 @@
+_repo: Abr-g--de-l-Histoire-universelle-depuis-Charlemagne-jusques---Charlequint--Tome-1-_18543
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Voltaire
+    aliases:
+    - Arouet, Francois Marie
+    - Arouet, François Marie
+    birthdate: 1694
+    deathdate: 1778
+    gutenberg_agent_id: '913'
+    url: http://www.gutenberg.org/2009/agents/913
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Voltaire
+    - http://en.wikipedia.org/wiki/Voltaire
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2006-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18543'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- 16th century'
+- !lcsh 'France -- History -- To 987'
+- !lcsh 'Europe -- History -- 1492-1648'
+- !lcsh 'France -- History -- Medieval period, 987-1515'
+- !lcsh 'Europe -- History -- 476-1492'
+- !lcsh 'World history -- Early works to 1800'
+- !lcc 'D'
+title: Abrégé de l'Histoire universelle depuis Charlemagne jusques à Charlequint (Tome
+  1)
+url: http://www.gutenberg.org/ebooks/18543
