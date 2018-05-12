@@ -17,6 +17,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Voltaire
     - http://en.wikipedia.org/wiki/Voltaire
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18543#Abr-g--de-l-Histoire-universelle-depuis-Charlemagne-jusques---Charlequint--Tome-1-
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2006-06-09'
 gutenberg_type: Text
